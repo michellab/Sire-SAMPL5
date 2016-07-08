@@ -7,4 +7,4 @@ A detailed description can be found in two publications:
 * *Blinded predictions of distribution coefficients in the SAMPL5 challenge*, S. Bosisio, A. S. J. S. Mey, J. Michel
 * *Blinded predictions of host-guest standard free energies of binding in the SAMPL5 challenge*, S. Bosisio, A. S. J. S. Mey, J. Michel
 
-More details about the challenge can be found [here](https://drugdesigndata.org/about/sampl5)
+More details about the challenge can be found [here](https://drugdesigndata.org/about/sampl5).
